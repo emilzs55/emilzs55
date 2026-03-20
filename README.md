@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔬 Geo data scientist/ social scientist building geospatial & ML tools for environmental monitoring and human geography anaysis.<br>
-🔥 Currently working on [**FireScars-Chiloé**](https://github.com/emilzs55/FireScars-Chiloe) — Burn scar detection in Valdivian rainforest using UNet + Sentinel-2 at 10m resolution.<br>
+🔥 Currently working on [**FireScars-Valdivian**](https://github.com/emilzs55/FireScars-Valdivian) — Burn scar detection in Valdivian rainforest using UNet + Sentinel-2 at 10m resolution.<br>
 🌱 Learning deep learning for remote sensing, scalable ML pipelines, and software engineering.<br>
 🎓 MSc Geography & Geomatics · BA History. <br>
 💬 Ask me about GIS, remote sensing, territorial analysis, or Latin American/Chilean history.<br>
